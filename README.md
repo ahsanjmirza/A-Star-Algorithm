@@ -1,2 +1,2 @@
 # AStarAlgorithm
-C++ implementation of A* Routing Algorithm
+C++ implementation of A* Routing Algorithm.
